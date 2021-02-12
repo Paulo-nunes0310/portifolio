@@ -1,0 +1,125 @@
+/* Por que tem que por charset utf-8 */
+
+/* general settings ? */ 
+
+.row3 {
+    height: 110vh;
+    display: flex;
+    align-items: center;
+    
+    background-color: #b3dce96c;
+
+    
+}
+
+
+
+
+/* general settings ? */ 
+
+
+/* menu start*/
+
+.nav {
+
+    border-radius: 100px;
+    
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background: rgb(185, 212, 212 , .1);
+    margin: 2px;
+    
+}
+
+h1 {
+    text-align: center;
+    margin: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:larger;
+    font-size: 2em;
+}
+
+
+/* menu end */
+
+
+ 
+/* body start */ 
+
+.conteiner1 {
+    display: flex ;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #b3dce96c;
+    height: 100vh;
+    background-image: url("../_imagens/oficial.png");
+    background-position: center;
+    background-size: 1340px;
+ 
+}
+
+.mypicture {
+    justify-content: start;
+    z-index: 10;
+}
+
+.myintroduction {
+justify-content: end;
+}
+
+.coluna2.projects {
+    background-color: rgb(255, 254, 254);
+    justify-content: right;
+  
+   
+}
+
+.mypicture {
+    background-color: rgb(79, 82, 78) ;
+    justify-content: end;
+    height: 50px;
+    
+    
+    
+} 
+
+.myintroduction {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:larger;
+    font-weight: bolder;
+    font-style: oblique;
+    align-items: center;
+    
+}
+
+.projects {
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+
+
+}
+
+
+
+/* body end */ 
+
+
+/* footer start */ 
+.linhaFooter {
+    background-color:  #b3dce96c;
+    display: flex;
+    align-items: center;
+    background-image: url("../_imagens/oficial.png");
+}
+/* footer end */ 
+
+
+
+
+
